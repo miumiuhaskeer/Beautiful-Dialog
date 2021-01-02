@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Beautiful-Dialog</string>
+
+    <string name="dialog_title">Dialog title</string>
+    <string name="dialog_positive_button">OK</string>
+    <string name="dialog_negative_button">Cancel</string>
+
+    <string name="dialog_description_1">Simple description text for BeautifulDialog. Input some text below.</string>
+    <string name="dialog_description_2">You can use custom view for dialog. You can get simple views (TextView and EditText) from BeautifulDialogViews class.</string>
+
+    <string name="dialog_edittext_hint">Some text</string>
+
+    <string name="dialog_radio_button_1">Unchecked radio button ONE</string>
+    <string name="dialog_radio_button_2">Checked radio button</string>
+    <string name="dialog_radio_button_3">Unchecked radio button TWO</string>
+</resources>
