@@ -19,7 +19,7 @@ allprojects {
 Add the dependency
 ```gradle
 dependencies {
-  implementation 'com.github.miumiuhaskeer:BeautifulDialog:1.0.0'
+  implementation 'com.github.miumiuhaskeer:Beautiful-Dialog:1.0.0'
 }
 ```
 
