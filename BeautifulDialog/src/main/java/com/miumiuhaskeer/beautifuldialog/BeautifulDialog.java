@@ -72,6 +72,10 @@ public class BeautifulDialog {
         this.view = getView(addView);
     }
 
+    public View getContentView() {
+        return view;
+    }
+
     /**
      * Set title for dialog
      *
